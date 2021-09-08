@@ -1,0 +1,19 @@
+{
+  "name": "my-share",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^12.2.0",
+    "@angular/core": "^12.2.0",
+    "lodash.concat": "^4.5.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "main": "bundles/my-share.umd.js",
+  "module": "fesm2015/my-share.js",
+  "es2015": "fesm2015/my-share.js",
+  "esm2015": "esm2015/my-share.js",
+  "fesm2015": "fesm2015/my-share.js",
+  "typings": "my-share.d.ts",
+  "sideEffects": false
+}

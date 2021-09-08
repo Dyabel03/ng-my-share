@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of my-share
+ */
+export * from './lib/my-share.service';
+export * from './lib/my-share.component';
+export * from './lib/my-share.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljLWFwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3Byb2plY3RzL215LXNoYXJlL3NyYy9wdWJsaWMtYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyx3QkFBd0IsQ0FBQztBQUN2QyxjQUFjLDBCQUEwQixDQUFDO0FBQ3pDLGNBQWMsdUJBQXVCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxuICogUHVibGljIEFQSSBTdXJmYWNlIG9mIG15LXNoYXJlXG4gKi9cblxuZXhwb3J0ICogZnJvbSAnLi9saWIvbXktc2hhcmUuc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9teS1zaGFyZS5jb21wb25lbnQnO1xuZXhwb3J0ICogZnJvbSAnLi9saWIvbXktc2hhcmUubW9kdWxlJztcbiJdfQ==
